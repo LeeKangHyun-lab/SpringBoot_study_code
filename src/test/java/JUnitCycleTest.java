@@ -1,5 +1,3 @@
-package me.khlee.springbootdeveloper;
-
 import org.junit.jupiter.api.*;
 
 public class JUnitCycleTest {
